@@ -1,0 +1,66 @@
+{
+    "college_name": "KLE Society's BCA College, Belgaum",
+    "course": "Bachelor of Computer Applications (BCA)",
+    "overview": "KLE BCA College, Belagavi is a premier institution under KLE Society offering a 3-year full-time BCA program focused on computer applications, software development, and IT fundamentals.",
+    "duration": "3 Years (6 Semesters)",
+    "eligibility": "Candidates must have passed 10+2 (PUC or equivalent) from a recognized board with Mathematics/Computer Science/Business Mathematics as one of the subjects, with a minimum aggregate of 45% (40% for reserved categories).",
+    "admission_process": [
+      "Fill the online/offline application form available on the KLE Society website or college admission office.",
+      "Submit required documents along with the application form.",
+      "Attend counselling/interaction session at the college (if applicable).",
+      "Merit list is prepared based on 10+2 marks.",
+      "Selected candidates must pay the admission fee to confirm their seat."
+    ],
+    "documents_required": [
+      "10th Marks Card",
+      "12th / PUC Marks Card",
+      "Transfer Certificate (TC)",
+      "Migration Certificate (if applicable)",
+      "Caste Certificate (if applicable)",
+      "Aadhar Card",
+      "Passport size photographs",
+      "Domicile Certificate (if applicable)"
+    ],
+    "fee_structure": {
+      "tuition_fee_per_year": "Approx. INR 45,000 - 60,000 (varies by category and year, please confirm with admission office)",
+      "other_charges": "Library, laboratory, and development fees applicable as per college norms"
+    },
+    "important_dates": {
+      "application_start": "May",
+      "application_end": "July (varies year to year)",
+      "academic_year_start": "August"
+    },
+    "contact": {
+      "address": "KLE Society's BCA College, Vidyanagar, Belagavi, Karnataka - 590010",
+      "phone": "0831-2407171 (sample - verify with official college website)",
+      "email": "info@klebcabelagavi.edu.in (sample - verify with official college website)",
+      "website": "https://www.klebcabelagavi.org (verify official domain)"
+    },
+    "placements": "The college has a dedicated placement cell that facilitates internships and job placements with IT companies, focusing on skill development in programming, web development, and emerging technologies.",
+    "facilities": [
+      "Well-equipped computer labs",
+      "Library with technical books and journals",
+      "Wi-Fi enabled campus",
+      "Seminar halls and smart classrooms",
+      "Sports and extracurricular activities"
+    ],
+    "faq": [
+      {
+        "question": "What is the eligibility for BCA admission?",
+        "answer": "10+2 pass with minimum 45% aggregate (40% for reserved category) with Mathematics or Computer Science as a subject."
+      },
+      {
+        "question": "What is the duration of the BCA course?",
+        "answer": "The BCA course is a 3-year full-time program divided into 6 semesters."
+      },
+      {
+        "question": "Is there an entrance exam for BCA admission?",
+        "answer": "Generally admission is merit-based on 10+2 marks; some years may include a college-level interaction or test. Please confirm with the admission office."
+      },
+      {
+        "question": "What documents are required for admission?",
+        "answer": "10th and 12th marks cards, TC, migration certificate, caste certificate (if applicable), Aadhar card, and passport size photos."
+      }
+    ],
+    "note": "This data is a sample template for demo purposes. Please verify all details (fees, dates, contact info) with the official KLE Society BCA College Belagavi website or admission office before relying on it."
+  }
